@@ -110,7 +110,6 @@ A full-time full-stack developer
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
