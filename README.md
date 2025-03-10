@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/C4D16AQFGUL2JEZ-xEQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1635464264098?e=1747267200&v=beta&t=o4dnWQLjPik0mMnURQ15F_R0cKYqvpPleeSDjEzzeDc" align="center" style="width: 100%" />
+<img src="https://github.com/eyobed101/profile/blob/main/programming-background-with-person-working-with-codes-computer.jpg" align="center" style="width: 100%" />
 </div>  
   
 
 ### Hi! I'm Eyobed,
-A full-time full-stack freelance developer 👨‍💻I have experience in building robust applications, crafting intuitive interfaces, solving complex problems through code. I love to combine technology and human-centered design to deliver meaningful software.  
+A full-time full-stack developer   
   
 
 - 🌍 I'm actively developing software with user role management, complaint handling, and payment verification.  
@@ -103,7 +103,9 @@ A full-time full-stack freelance developer 👨‍💻I have experience in build
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eyobed101&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=eyobed101&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobed101&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
 
@@ -136,4 +138,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
