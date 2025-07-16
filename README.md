@@ -1,36 +1,33 @@
-<div align="center">
-<img src="https://github.com/eyobed101/profile/blob/main/programming-background-with-person-working-with-codes-computer.jpg" align="center" style="width: 100%" />
-</div>  
-  
 
 <h1 align="center">Hi Guys 👋, I'm Eyobed Elias</h1>
 <h3 align="center">
-	A passionate fullstack developer from Indonesia<br>
-	Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.
+  Fullstack developer • Idealist • Problem Solver 🇪🇹 <br><br>
+  I build with purpose and learn with passion.<br>
+  A firm believer that effort beats everything—except maybe sarcasm (which I use generously).<br>
+  I'm the kind of person who finds routine boring and growth exciting.<br>
+  I love tackling real-world problems, sharing knowledge, and working with people who challenge me to level up.<br><br>
+  Let’s build, break, and rebuild — smarter.
 </h3>
-<div align="center">
-    <img width="49%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/input.jpg" alt="Input picture"/>
-    <img width="49%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/output.jpg" alt="Output picture"/>
-    <img width="98%" src="https://raw.githubusercontent.com/adityadees/adityadees/master/data/output.gif" alt="Output GIF"/>
-</div>
 
-_Hello guys, I want you to participate with my repo, you need to click star button in [this repo](https://github.com/adityadees/adityadees), and your github avatar will automatically become part of the mosaic image._
 
-Check [this link](https://github.com/adityadees/adityadees/blob/master/STATISTICS.md) to see how much your photo was used to create this image. 
+
+_Hello guys, I want you to participate with my repo, you need to click star button in [this repo](https://github.com/eyobed101/profile), and your github avatar will automatically become part of the mosaic image._
+
+Check [this link](https://github.com/adityadees/eyobed101/profile/STATISTICS.md) to see how much your photo was used to create this image. 
 
 <br>
 
-<h3> 👨 &nbsp;About Me </h3>
+<h3>🚀 &nbsp; Who Am I Really?</h3>
 
-- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
-- 💼 &nbsp; Working as a Fullstack Developer
-- 🌱 &nbsp; Learning more about Systems Design.
-- ✍️ &nbsp; Music is my hobby.
-- 💬 Ask me about **PHP, DART, VUE, CODEIGNITER, LARAVEL, FLUTTER**
-- 📫 How to reach me **adityadees@gmail.com**
+- 💡 &nbsp; Creative thinker obsessed with turning coffee and code into solutions that *just work*.
+- 👨‍💻 &nbsp; Fullstack Developer by day, tech explorer by night.
+- 🧠 &nbsp; Currently deep-diving into Systems Design and the beautiful chaos of distributed systems.
+- 🎵 &nbsp; Music fuels my flow — whether coding or chilling.
+- 💬 &nbsp; Talk to me about **Javascript/Typescript, React, , Next JS, Laravel, React Native** — or anything you're building.
+- 📫 &nbsp; Ping me anytime at **eyobedeliast@gmail.com** — I love collaborations!
 
 <br/>
+
 <br/>
 
 <table>
